@@ -1,0 +1,315 @@
+[
+  {
+    "pageKey": "about",
+    "type": "HERO",
+    "order": 0,
+    "content": {
+      "lead": "Este rincon es para guardar las cosas que me inspiran: musica, recuerdos y pequenas historias del dia a dia. Todo en tonos morados porque me encanta.",
+      "chips": [
+        "Morado lover",
+        "Taqueria campos",
+        "Santa Catarina"
+      ],
+      "title": "Hola, soy Ichi.",
+      "buttons": [
+        {
+          "href": "/blog",
+          "label": "Ver blog",
+          "variant": "primary"
+        },
+        {
+          "href": "/buscar",
+          "label": "Buscar",
+          "variant": "secondary"
+        }
+      ],
+      "eyebrow": "Sobre mi"
+    },
+    "imagePath": "/uploads/itzy/itzy1.jpg",
+    "metadata": {
+      "minImages": 1
+    }
+  },
+  {
+    "pageKey": "about",
+    "type": "TEXT",
+    "order": 1,
+    "content": {
+      "title": "Pequenas notas sobre mi",
+      "eyebrow": "Quien soy",
+      "paragraphs": [
+        "Me gusta aprender nuevas que me llenan y disfrutar buenos momentos",
+        "Tambien guardo ideas, cosas que quiero aprender y listas de pendientes. Este espacio no es perfecto, solo es honesto y lleno de lo que me hace feliz"
+      ]
+    },
+    "imagePath": null
+  },
+  {
+    "pageKey": "about",
+    "type": "FACTS",
+    "order": 2,
+    "content": {
+      "facts": [
+        {
+          "label": "Ciudad base",
+          "value": "MTY (pero siempre en movimiento)"
+        },
+        {
+          "label": "Mood actual",
+          "value": "Alegria absoluta + musica suave"
+        },
+        {
+          "label": "Cosa favorita",
+          "value": "Musica y biggie"
+        }
+      ]
+    },
+    "imagePath": null
+  },
+  {
+    "pageKey": "about",
+    "type": "PASSIONS",
+    "order": 3,
+    "content": {
+      "items": [
+        {
+          "icon": "🎵",
+          "tags": [],
+          "type": "album",
+          "label": "Albums",
+          "gallery": [],
+          "description": "Un poco de mi musica favorita"
+        },
+        {
+          "icon": "📷",
+          "tags": [],
+          "type": "hobby",
+          "label": "Hobbies",
+          "gallery": [],
+          "description": "Momentos que he pasado y cosas que me gustan"
+        },
+        {
+          "icon": "📝",
+          "tags": [],
+          "type": "blog",
+          "label": "Blog",
+          "gallery": [],
+          "description": "Notas rapidas, ideas y diarios cortitos."
+        }
+      ],
+      "title": "Pequenos mundos que me inspiran",
+      "eyebrow": "Lo que me mueve a mi"
+    },
+    "imagePath": null
+  },
+  {
+    "pageKey": "about",
+    "type": "GALLERY",
+    "order": 4,
+    "content": {
+      "title": "Fotos que me gustan",
+      "images": [
+        "/uploads/itzy/itzy2.jpg",
+        "/uploads/itzy/itzy3.jpg",
+        "/uploads/itzy/itzy4.jpg",
+        "/uploads/itzy/itzy5.jpg",
+        "/uploads/itzy/itzy6.jpg"
+      ],
+      "eyebrow": "Momentos",
+      "subtitle": "Pequena galeria con cosas que me hacen feliz."
+    },
+    "imagePath": null,
+    "metadata": {
+      "minImages": 1
+    }
+  },
+  {
+    "pageKey": "about",
+    "type": "CTA",
+    "order": 5,
+    "content": {
+      "lead": "Cada semana subo algo nuevo: fotos, playlists o notas de cosas que me emocionan. Pasa cuando quieras.",
+      "title": "Hay mas historias en camino",
+      "button": {
+        "href": "/blog",
+        "label": "Ver ultimos posts"
+      },
+      "eyebrow": "Quedate un rato"
+    },
+    "imagePath": null
+  },
+  {
+    "pageKey": "home",
+    "type": "HERO",
+    "order": 0,
+    "content": {
+      "lead": "Estos son mis momentos favoritos asi como también cosas que me encantan, aquí comparto cosas que me hacen feliz",
+      "image": "/uploads/itzy/itzy6.jpg",
+      "title": "Mi espacio personal con Biggie",
+      "buttons": [
+        {
+          "href": "/blog",
+          "label": "Ver blog",
+          "variant": "primary"
+        },
+        {
+          "href": "/buscar",
+          "label": "Buscar algo",
+          "variant": "secondary"
+        }
+      ],
+      "eyebrow": "ITZY BLOG",
+      "cardLabel": "Mood actual",
+      "cardValue": "Biggie + Soda Stereo + Momentos bonitos"
+    },
+    "imagePath": "/uploads/itzy/itzy6.jpg"
+  },
+  {
+    "pageKey": "home",
+    "type": "SHOWCASE",
+    "order": 1,
+    "content": {
+      "mode": "recent",
+      "count": 4,
+      "title": "Mis discos favoritos",
+      "itemIds": [
+        8,
+        7
+      ],
+      "itemType": "ALBUM",
+      "subtitle": "6 elegidos de mi coleccion",
+      "actionLink": "/buscar",
+      "actionLabel": "Ver todo"
+    },
+    "imagePath": null
+  },
+  {
+    "pageKey": "home",
+    "type": "SHOWCASE",
+    "order": 2,
+    "content": {
+      "mode": "recent",
+      "count": 6,
+      "title": "Hobbies",
+      "itemIds": [],
+      "itemType": "HOBBY",
+      "subtitle": "6 momentos recientes con Biggie Bubble y mas",
+      "actionLink": "/buscar",
+      "actionLabel": "Ver fotos"
+    },
+    "imagePath": null
+  },
+  {
+    "pageKey": "home",
+    "type": "CTA",
+    "order": 3,
+    "content": {
+      "lead": "Cada cierto tiempo subo cosas acerca de mi y como me siento",
+      "title": "Hay nuevas historias y albums que he subido, puedes echar un vistazo",
+      "buttons": [
+        {
+          "href": "/blog",
+          "label": "Ir al blog",
+          "variant": "primary"
+        },
+        {
+          "href": "/buscar",
+          "label": "Buscar algo",
+          "variant": "tertiary"
+        }
+      ],
+      "eyebrow": "Mas cositas sobre mi"
+    },
+    "imagePath": null
+  },
+  {
+    "pageKey": "home",
+    "type": "SOCIAL",
+    "order": 4,
+    "content": {
+      "lead": "Este es el lugar donde subo contenido que a mi me gusta hacer, relacionado a la edicion de video y música",
+      "links": [
+        {
+          "href": "#",
+          "icon": "fab fa-tiktok",
+          "label": "TikTok",
+          "handle": "feelme.pic"
+        },
+        {
+          "href": "#",
+          "icon": "fab fa-instagram",
+          "label": "Instagram",
+          "handle": "@feelme.pic"
+        },
+        {
+          "href": "#",
+          "icon": "fab fa-youtube",
+          "label": "YouTube",
+          "handle": "FeelMe Channel"
+        }
+      ],
+      "title": "Aqui me puedes encontrar",
+      "eyebrow": "Mis redes sociales"
+    },
+    "imagePath": null
+  },
+  {
+    "pageKey": "blog",
+    "type": "HERO",
+    "order": 1,
+    "content": {
+      "lead": "Aqui guardo mis playlists favoritas, notas rapidas y recuerdos con Biggie. Pasa a leer un rato o escucha algo nuevo.",
+      "title": "Historias cortas, playlists y diarios",
+      "buttons": [
+        {
+          "href": "/buscar",
+          "label": "Buscar algo",
+          "variant": "primary"
+        },
+        {
+          "href": "/home",
+          "label": "Volver al inicio",
+          "variant": "secondary"
+        }
+      ],
+      "eyebrow": "Blog"
+    },
+    "imagePath": "/uploads/itzy/itzy4.jpg"
+  },
+  {
+    "pageKey": "blog",
+    "type": "POSTS",
+    "order": 2,
+    "content": {
+      "lead": "Textos cortos, listas y playlists para distintos moods.",
+      "mode": "recent",
+      "count": 6,
+      "title": "Lo mas reciente",
+      "eyebrow": "Ultimas entradas"
+    },
+    "imagePath": null
+  },
+  {
+    "pageKey": "blog",
+    "type": "NEWSLETTER",
+    "order": 3,
+    "content": {
+      "lead": "Prometo no spamear. Solo playlists y fotos bonitas.",
+      "title": "Te aviso cuando suba algo nuevo",
+      "buttons": [
+        {
+          "href": "/buscar",
+          "label": "Quiero saber",
+          "variant": "primary"
+        },
+        {
+          "href": "/about",
+          "label": "Sobre mi",
+          "variant": "secondary"
+        }
+      ],
+      "eyebrow": "Quedate"
+    },
+    "imagePath": null
+  }
+]

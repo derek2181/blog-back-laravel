@@ -1,0 +1,12 @@
+[
+  {
+    "email": "admin@example.com",
+    "passwordHash": "$2b$10$FWOzAXeWAMt0Q.QaeKj19e06fXIolsT4Hckpl39P0XIy4ouSfpoXO",
+    "role": "ADMIN"
+  },
+  {
+    "email": "ichi",
+    "passwordHash": "$2b$10$8IQ3LH3V2N/6MuWrNjBwaeEp.sVRs/DAODjBO845u2.BZUamNHLJO",
+    "role": "ADMIN"
+  }
+]

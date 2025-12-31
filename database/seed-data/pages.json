@@ -1,0 +1,14 @@
+[
+  {
+    "key": "about",
+    "title": "Sobre mi"
+  },
+  {
+    "key": "home",
+    "title": "Home"
+  },
+  {
+    "key": "blog",
+    "title": "Blog"
+  }
+]

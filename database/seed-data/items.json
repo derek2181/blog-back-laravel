@@ -1,0 +1,153 @@
+[
+  {
+    "name": "The Doors",
+    "description": "Debut iconico lleno de organos, poesia y psicodelia.",
+    "image": "/uploads/albums/thedoors.jpg",
+    "category": "Rock",
+    "type": "ALBUM",
+    "releaseYear": 1967,
+    "postedAt": "2025-01-10T00:00:00.000Z",
+    "updatedAt": "2025-02-02T00:00:00.000Z",
+    "readTime": null,
+    "video": null,
+    "tags": [
+      "rock",
+      "vinilo",
+      "clasico"
+    ],
+    "gallery": [
+      "/uploads/albums/thedoors.jpg",
+      "/uploads/albums/Revolver.jpg"
+    ]
+  },
+  {
+    "name": "Revolver",
+    "description": "Beatles en modo experimental, de principio a fin.",
+    "image": "/uploads/albums/Revolver.jpg",
+    "category": "Rock",
+    "type": "ALBUM",
+    "releaseYear": 1966,
+    "postedAt": "2025-01-12T00:00:00.000Z",
+    "updatedAt": "2025-02-03T00:00:00.000Z",
+    "readTime": null,
+    "video": null,
+    "tags": [
+      "beatles",
+      "rock",
+      "psicodelia"
+    ],
+    "gallery": [
+      "/uploads/albums/Revolver.jpg",
+      "/uploads/albums/pinkfloyd.jpg"
+    ]
+  },
+  {
+    "name": "Fotos con Biggie",
+    "description": "Parque, atardecer y perrito feliz: plan perfecto.",
+    "image": "/uploads/itzy/itzy1.jpg",
+    "category": "Momentos",
+    "type": "HOBBY",
+    "releaseYear": null,
+    "postedAt": "2025-01-25T00:00:00.000Z",
+    "updatedAt": "2025-02-03T00:00:00.000Z",
+    "readTime": null,
+    "video": null,
+    "tags": [
+      "biggie",
+      "parque",
+      "fotos"
+    ],
+    "gallery": [
+      "/uploads/itzy/itzy1.jpg",
+      "/uploads/itzy/itzy2.jpg"
+    ]
+  },
+  {
+    "name": "Cafecito y sol",
+    "description": "Salir a caminar con una bebida helada en la mano.",
+    "image": "/uploads/itzy/itzy2.jpg",
+    "category": "Rutinas",
+    "type": "HOBBY",
+    "releaseYear": null,
+    "postedAt": "2025-01-26T00:00:00.000Z",
+    "updatedAt": "2025-02-01T00:00:00.000Z",
+    "readTime": null,
+    "video": null,
+    "tags": [
+      "cafe",
+      "paseo",
+      "luz"
+    ],
+    "gallery": [
+      "/uploads/itzy/itzy2.jpg",
+      "/uploads/itzy/itzy3.jpg"
+    ]
+  },
+  {
+    "name": "Playlist para un paseo al atardecer",
+    "description": "Canciones suaves para caminar lento, mirar el cielo y pensar en nada.",
+    "image": "/uploads/itzy/itzy7.jpg",
+    "category": "Playlist",
+    "type": "BLOG",
+    "releaseYear": null,
+    "postedAt": "2025-02-01T00:00:00.000Z",
+    "updatedAt": "2025-02-02T00:00:00.000Z",
+    "readTime": "4 min",
+    "video": null,
+    "tags": [
+      "musica",
+      "mood",
+      "paseo"
+    ],
+    "gallery": [
+      "/uploads/itzy/itzy7.jpg",
+      "/uploads/itzy/itzy2.jpg"
+    ]
+  },
+  {
+    "name": "Diario corto de fin de semana",
+    "description": "Fotos, cafe y el parque con Biggie. Cosas simples que me cargan de energia.",
+    "image": "/uploads/itzy/itzy2.jpg",
+    "category": "Diario",
+    "type": "BLOG",
+    "releaseYear": null,
+    "postedAt": "2025-01-28T00:00:00.000Z",
+    "updatedAt": "2025-02-01T00:00:00.000Z",
+    "readTime": "3 min",
+    "video": null,
+    "tags": [
+      "rutina",
+      "perros",
+      "aire libre"
+    ],
+    "gallery": [
+      "/uploads/itzy/itzy2.jpg",
+      "/uploads/itzy/itzy1.jpg"
+    ]
+  },
+  {
+    "name": "Soda stereo los mejores",
+    "description": "Estos son uno de mis albums favoritos de soda los amo ohmygod viva el gran gustavo cerati y la pepsi",
+    "image": "/uploads/albums/Soda1.jpg",
+    "category": "Musica",
+    "type": "ALBUM",
+    "releaseYear": 1981,
+    "postedAt": "2025-12-30T00:00:00.000Z",
+    "updatedAt": "2025-12-30T00:00:00.000Z",
+    "readTime": "6m",
+    "video": "https://youtu.be/G0xLD2stayM?si=DCNpQGZvVCuNpCL6",
+    "tags": [
+      "musica",
+      "soda",
+      "stereo",
+      "sodastereo",
+      "cerati"
+    ],
+    "gallery": [
+      "/uploads/albums/Soda2.jpg",
+      "/uploads/albums/Soda1.jpg",
+      "/uploads/albums/Soda3.jpg",
+      "/uploads/albums/cerati.jpg"
+    ]
+  }
+]
